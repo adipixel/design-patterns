@@ -1,0 +1,81 @@
+Student_15 G E D F B C A 
+Student_59 E H D F G 
+Student_16 F E G B C 
+Student_17 F G A E 
+Student_18 F H D B C 
+Student_19 H B A E F 
+Student_51 G B E H F 
+Student_52 B C E F A 
+Student_53 F G E H C A 
+Student_10 B E H F G 
+Student_54 C F B D A G 
+Student_55 B G E C F A 
+Student_11 F D A G E 
+Student_12 D H C E B F A 
+Student_56 D G B F 
+Student_13 B A G D H 
+Student_57 B E C F A G 
+Student_14 F B A E G 
+Student_58 F B E G C A 
+Student_60 B F G A D H E 
+Student_61 F G H B A E 
+Student_26 D H C A G 
+Student_27 G E D A B C 
+Student_28 H C G B D A E 
+Student_29 B G H A E 
+Student_62 G F E A H 
+Student_63 A F G E 
+Student_20 H E B D C F A 
+Student_64 H A D F B G E 
+Student_21 F H B D G 
+Student_65 F H C D A G 
+Student_22 D C A B H 
+Student_66 H E G C D B F 
+Student_67 E G F B H 
+Student_23 B F A D C E 
+Student_24 B H C G A 
+Student_68 B F C A H 
+Student_25 H B A F C 
+Student_69 G C E H F 
+Student_70 D A E B F G 
+Student_71 F A C H G 
+Student_72 B E D G C F 
+Student_37 H D A E F 
+Student_38 G H B A D 
+Student_39 H E G A D B F 
+Student_73 C H E A D F G 
+Student_5 B H G A C F E 
+Student_30 F G C B E 
+Student_74 D C F B G 
+Student_4 H E G D B F 
+Student_31 F H B E D 
+Student_75 C G H B F E 
+Student_7 G A D C E 
+Student_76 A B D H E 
+Student_6 B C D F A G 
+Student_32 B G H C F A 
+Student_33 C F A H E 
+Student_77 G A E D B C 
+Student_9 E B C G 
+Student_8 G C B D E 
+Student_34 H A F G B 
+Student_78 C G H E D 
+Student_35 D A E F C 
+Student_79 F G D E H 
+Student_36 G C D A 
+Student_80 D H B C F 
+Student_1 H B F A G 
+Student_3 A H B C D 
+Student_2 C G H D E 
+Student_48 G F H E A 
+Student_49 B A F H G 
+Student_40 F E C G 
+Student_41 H F G B D 
+Student_42 B A G C E 
+Student_43 C E A F G 
+Student_44 H A E C B 
+Student_45 A G C E D 
+Student_46 H D B G A 
+Student_47 G E D C B 
+Student_50 F G H D A E 
+total_preference_score: 20.0
